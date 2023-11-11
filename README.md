@@ -198,4 +198,7 @@ userQuery.findObjectsInBackground { (users: [PFObject]?, error: Error?) in
     - Implement The Search Screen for user profile and post.
 
 ### Weekly CheckIn:
+* Loom video:
+[X] (https://www.loom.com/share/664e54c28707459387ebc5f9b9de6a19?sid=b36ab448-2ae3-4404-8d3c-5f8740313f9b)
 
+Overall,starting the project has been really fun i have not encounteres any major problem yet. I'm excited for next week!
