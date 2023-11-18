@@ -200,5 +200,7 @@ userQuery.findObjectsInBackground { (users: [PFObject]?, error: Error?) in
 ### Weekly CheckIn:
 * Loom video:
 [X] (https://www.loom.com/share/664e54c28707459387ebc5f9b9de6a19?sid=b36ab448-2ae3-4404-8d3c-5f8740313f9b)
+[X]Loom video Part 2 - Week 2:
+(https://www.loom.com/share/f872fd983ceb483987983ea92c6e0697?sid=cb511083-c078-447d-879d-4b5db6b38b9a)
 
 Overall,starting the project has been really fun i have not encounteres any major problem yet. I'm excited for next week!
