@@ -37,6 +37,10 @@
 		538C368A2AFF5DAB00DF66CF /* FirebaseRemoteConfigSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 538C36892AFF5DAB00DF66CF /* FirebaseRemoteConfigSwift */; };
 		538C368C2AFF5DAB00DF66CF /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = 538C368B2AFF5DAB00DF66CF /* FirebaseStorage */; };
 		538C368E2AFF5DAB00DF66CF /* FirebaseStorageCombine-Community in Frameworks */ = {isa = PBXBuildFile; productRef = 538C368D2AFF5DAB00DF66CF /* FirebaseStorageCombine-Community */; };
+		538C36902B089ED000DF66CF /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538C368F2B089ED000DF66CF /* HomeViewController.swift */; };
+		538C36922B08D88100DF66CF /* PostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538C36912B08D88000DF66CF /* PostViewController.swift */; };
+		538C36942B08D8A700DF66CF /* ExploreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538C36932B08D8A700DF66CF /* ExploreViewController.swift */; };
+		538C36962B08D8C400DF66CF /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538C36952B08D8C400DF66CF /* ProfileViewController.swift */; };
 		53D084492AFF50B6007F9830 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53D084482AFF50B6007F9830 /* AppDelegate.swift */; };
 		53D0844B2AFF50B6007F9830 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53D0844A2AFF50B6007F9830 /* SceneDelegate.swift */; };
 		53D0844D2AFF50B6007F9830 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53D0844C2AFF50B6007F9830 /* ViewController.swift */; };
@@ -49,6 +53,10 @@
 		538C36522AFF58C400DF66CF /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		538C36542AFF5A6700DF66CF /* CreateAccoutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAccoutViewController.swift; sourceTree = "<group>"; };
 		538C36562AFF5C4400DF66CF /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		538C368F2B089ED000DF66CF /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		538C36912B08D88000DF66CF /* PostViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostViewController.swift; sourceTree = "<group>"; };
+		538C36932B08D8A700DF66CF /* ExploreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreViewController.swift; sourceTree = "<group>"; };
+		538C36952B08D8C400DF66CF /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 		53D084452AFF50B6007F9830 /* ActiveVillage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ActiveVillage.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		53D084482AFF50B6007F9830 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		53D0844A2AFF50B6007F9830 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -122,6 +130,10 @@
 				53D0844E2AFF50B7007F9830 /* Main.storyboard */,
 				538C36522AFF58C400DF66CF /* LoginViewController.swift */,
 				538C36542AFF5A6700DF66CF /* CreateAccoutViewController.swift */,
+				538C36912B08D88000DF66CF /* PostViewController.swift */,
+				538C36932B08D8A700DF66CF /* ExploreViewController.swift */,
+				538C368F2B089ED000DF66CF /* HomeViewController.swift */,
+				538C36952B08D8C400DF66CF /* ProfileViewController.swift */,
 				53D084512AFF50B9007F9830 /* Assets.xcassets */,
 				53D084532AFF50B9007F9830 /* LaunchScreen.storyboard */,
 				53D084562AFF50B9007F9830 /* Info.plist */,
@@ -236,9 +248,13 @@
 			files = (
 				538C36532AFF58C400DF66CF /* LoginViewController.swift in Sources */,
 				53D0844D2AFF50B6007F9830 /* ViewController.swift in Sources */,
+				538C36922B08D88100DF66CF /* PostViewController.swift in Sources */,
 				53D084492AFF50B6007F9830 /* AppDelegate.swift in Sources */,
+				538C36942B08D8A700DF66CF /* ExploreViewController.swift in Sources */,
 				538C36552AFF5A6700DF66CF /* CreateAccoutViewController.swift in Sources */,
+				538C36962B08D8C400DF66CF /* ProfileViewController.swift in Sources */,
 				53D0844B2AFF50B6007F9830 /* SceneDelegate.swift in Sources */,
+				538C36902B089ED000DF66CF /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
