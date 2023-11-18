@@ -195,10 +195,22 @@ userQuery.findObjectsInBackground { (users: [PFObject]?, error: Error?) in
 - **Sprint 3:** 
     - Build the User Profile screen.
 - **Sprint 4:** 
-    - Implement The Search Screen for user profile and post.
+    - Implement The Search Screen for user profiles and posts.
 
-### Weekly CheckIn:
+### Weekly check-in:
 * Loom video:
 [X] (https://www.loom.com/share/664e54c28707459387ebc5f9b9de6a19?sid=b36ab448-2ae3-4404-8d3c-5f8740313f9b)
+[X]Loom video Part 2 - Week 2:
+(https://www.loom.com/share/f872fd983ceb483987983ea92c6e0697?sid=cb511083-c078-447d-879d-4b5db6b38b9a)
 
-Overall,starting the project has been really fun i have not encounteres any major problem yet. I'm excited for next week!
+### User features Check off:
+[X] Welcome Screen 
+[X] Navigation
+[X] Login 
+[X] Create an Account 
+[ ] Posting
+[ ] Profile
+[ ] Explore Page 
+
+### Progress Summary 
+The process of developing my app has generally been quite smooth, with the successful implementation of several essential user features. The welcome screen, navigation, login, and account creation functionalities have been incorporated without major issues, contributing to a user-friendly and secure experience. However, I have faced certain difficulties, particularly with the posting feature. The storyboard and flow for this aspect have presented challenges, causing delays in its development. Additionally, I have not yet tackled the profile and explore page features, as my primary focus has been on resolving issues in other areas of the app. Despite these challenges, the overall progress has been promising, and I am eagerly looking forward to the next phase of development.
