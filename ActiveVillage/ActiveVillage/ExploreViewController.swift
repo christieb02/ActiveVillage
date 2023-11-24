@@ -7,7 +7,7 @@
 
 import UIKit
 import Foundation
-import Nuke
+//import Nuke
 
 struct Exercise: Codable {
     var name: String

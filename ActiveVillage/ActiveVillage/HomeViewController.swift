@@ -6,7 +6,7 @@
 //
 
 import UIKit
-import Nuke
+//import Nuke
 
 class HomeViewController: UIViewController {
 
